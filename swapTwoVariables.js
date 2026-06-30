@@ -26,7 +26,7 @@ console.log(a);
 console.log(b);
 
 //method 3
-//swap two variables in JavaScript using array destructuring.
+//swap two variables in JavaScript using array destructuring, This is called destructuring assignment in JavaScript.
 
 let a = 10;
 let b = 20;
